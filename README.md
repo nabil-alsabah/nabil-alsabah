@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nabil-alsabah
 - 👀 I’m interested in AI, Multi-Agent Systems, Swift, SpriteKit, SwiftUI
-- 🌱 I’m currently learning SpriteKit
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

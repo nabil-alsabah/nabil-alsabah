@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nabil-alsabah
-- 👀 I’m interested in AI in video games, Multi-Agent Systems, Godot
+- 👀 I’m interested in AI in video games, multi-agent systems, Unity
 
 
 <!--- 
